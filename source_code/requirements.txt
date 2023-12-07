@@ -1,0 +1,8 @@
+﻿streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+deap
+ortools
